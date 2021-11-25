@@ -1,3 +1,6 @@
 [submodule "themes/fit-pure"]
 	path = themes/fit-pure
 	url = https://github.com/FIT-Flashcards/hexo-theme-pure
+[submodule "source/_posts/FIT-Flashcards-Posts"]
+	path = source/_posts/FIT-Flashcards-Posts
+	url = https://github.com/FIT-Flashcards/FIT-Flashcards-Posts
