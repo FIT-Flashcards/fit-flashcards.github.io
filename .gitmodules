@@ -1,0 +1,3 @@
+[submodule "themes/fit-pure"]
+	path = themes/fit-pure
+	url = git@github.com:FIT-Flashcards/hexo-theme-pure.git
