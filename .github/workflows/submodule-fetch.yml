@@ -3,7 +3,7 @@ name: Fetch-submodule
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 2 * * *'
+    - cron:  '0 2 * * 2'
 
 jobs:
   fetch_submodule:
@@ -13,3 +13,13 @@ jobs:
         uses: actions/checkout@v2
       - name: Checkout submodules
         run: git submodule update --init --recursive
+      - name: Commit files # transfer the new html files back into the repository
+        run: |
+          git config --local user.name "robotkevin"
+          git add ./bin
+          git commit -m "Fetch FIT-Flashcards-Posts submodule (automatic)"
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
