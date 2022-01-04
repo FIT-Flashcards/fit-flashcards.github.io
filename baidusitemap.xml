@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://example.com/2022/01/04/FIT-Flashcards-Posts/decks/README/</loc>
+    <loc>http://example.com/FIT-Flashcards-Posts/README/</loc>
     <lastmod>2022-01-04</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2022/01/04/FIT-Flashcards-Posts/notes/BI-AAG/test1/</loc>
+    <loc>http://example.com/FIT-Flashcards-Posts/decks/README/</loc>
     <lastmod>2022-01-04</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2022/01/04/FIT-Flashcards-Posts/README/</loc>
+    <loc>http://example.com/FIT-Flashcards-Posts/notes/BI-AAG/test1/</loc>
     <lastmod>2022-01-04</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2022/01/04/hello-world/</loc>
+    <loc>http://example.com/hello-world/</loc>
     <lastmod>2022-01-04</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2022/01/04/test/test2/</loc>
+    <loc>http://example.com/test/test2/</loc>
     <lastmod>2022-01-04</lastmod>
   </url>
 </urlset> 
