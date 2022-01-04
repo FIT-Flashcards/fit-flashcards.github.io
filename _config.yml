@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: FIT-Flashcards
 subtitle: ''
 description: ''
 keywords:
@@ -92,7 +92,6 @@ pagination_dir: page
 ## include:/exclude: options only apply to the 'source/' folder
 include:
 exclude:
-  - "**/config"
 ignore:
 
 # Extensions
