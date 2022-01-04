@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-04T16:33:40.308Z</updated>
+  <updated>2022-01-04T16:37:49.483Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,51 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>FIT-Flashcards</title>
-    <link href="http://example.com/2022/01/04/FIT-Flashcards-Posts/README/"/>
-    <id>http://example.com/2022/01/04/FIT-Flashcards-Posts/README/</id>
-    <published>2022-01-04T16:33:40.308Z</published>
-    <updated>2022-01-04T16:33:40.308Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="FIT-Flashcards"><a href="#FIT-Flashcards" class="headerlink" title="FIT-Flashcards"></a>FIT-Flashcards</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;FIT-Flashcards&quot;&gt;&lt;a href=&quot;#FIT-Flashcards&quot; class=&quot;headerlink&quot; title=&quot;FIT-Flashcards&quot;&gt;&lt;/a&gt;FIT-Flashcards&lt;/h1&gt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2022/01/04/FIT-Flashcards-Posts/config/deck-settings/"/>
-    <id>http://example.com/2022/01/04/FIT-Flashcards-Posts/config/deck-settings/</id>
-    <published>2022-01-04T16:33:40.308Z</published>
-    <updated>2022-01-04T16:33:40.308Z</updated>
-    
-    <content type="html"><![CDATA[{"code":{"defaultLanguage":"bash","template":"dark"},"card":{"separator":"(?=^<!--question-->\\s)","frontBackSeparator":"<!--answer-->","tagPattern":"^\\[#(.*)\\]"},"deck":{"titleSeparator":"^#\\s","defaultName":"mdanki"},"template":{"formats":{"question":"<link rel=\"stylesheet\" href=\"_highlight_default.css\"><link rel=\"stylesheet\" href=\"_highlight_dark.css\"></link><script>var script;\"undefined\"==typeof hljs&&((script=document.createElement(\"script\")).src=\"_prism.js\",script.async=!1,document.head.appendChild(script));(script=document.createElement(\"script\")).src=\"_highlight.js\",script.async=!1,document.head.appendChild(script),document.head.removeChild(script);</script>","answer":"\n\n<hr id=\"answer\">\n\n","css":".card {\n font-family: Arial,\"Helvetica Neue\",Helvetica,sans-serif;\n font-size: 16px;\n color: black;\nbackground-color: white;\n}\ncode[class*=\"language-\"],pre[class*=\"language-\"] {\n font-size: 0.9em !important;\n}"}}}]]></content>
-    
-    
-      
-      
-    <summary type="html">{&quot;code&quot;:{&quot;defaultLanguage&quot;:&quot;bash&quot;,&quot;template&quot;:&quot;dark&quot;},&quot;card&quot;:{&quot;separator&quot;:&quot;(?=^&lt;!--question--&gt;\\s)&quot;,&quot;frontBackSeparator&quot;:&quot;&lt;!--answer--&gt;&quot;,&quot;tag</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title></title>
     <link href="http://example.com/2022/01/04/FIT-Flashcards-Posts/decks/README/"/>
     <id>http://example.com/2022/01/04/FIT-Flashcards-Posts/decks/README/</id>
-    <published>2022-01-04T16:33:40.308Z</published>
-    <updated>2022-01-04T16:33:40.308Z</updated>
+    <published>2022-01-04T16:37:49.483Z</published>
+    <updated>2022-01-04T16:37:49.483Z</updated>
     
     <content type="html"><![CDATA[<p>Tohle tu musi byt, protoze jinak nefunguje generovani decku, kdyz je slozka prazdna (:</p>]]></content>
     
@@ -81,8 +41,8 @@
     <title>test1</title>
     <link href="http://example.com/2022/01/04/FIT-Flashcards-Posts/notes/BI-AAG/test1/"/>
     <id>http://example.com/2022/01/04/FIT-Flashcards-Posts/notes/BI-AAG/test1/</id>
-    <published>2022-01-04T16:33:40.308Z</published>
-    <updated>2022-01-04T16:33:40.308Z</updated>
+    <published>2022-01-04T16:37:49.483Z</published>
+    <updated>2022-01-04T16:37:49.483Z</updated>
     
     <content type="html"><![CDATA[<!--question--><p>otazka1</p><!--answer--><h2 id="What’s-the-Markdown"><a href="#What’s-the-Markdown" class="headerlink" title="What’s the Markdown?"></a>What’s the Markdown?</h2><p>Markdown is a lightweight markup language with plain-text-formatting syntax.<br>Its design allows it to be converted to many output formats,<br>but the original tool by the same name only supports HTML.</p><h2 id="Who-created-Markdown"><a href="#Who-created-Markdown" class="headerlink" title="Who created Markdown?"></a>Who created Markdown?</h2><p>John Gruber created the Markdown language in 2004 in collaboration with<br>Aaron Swartz on the syntax.</p><h6 id="karel"><a href="#karel" class="headerlink" title="karel"></a>karel</h6><p>blablablax</p><p><a href="">#tag1</a></p><!--question--><p>otazka2</p><!--answer--><p>odpoved2</p><p><img src="img/37039e93733be69316ae2c8e6e2fa6f9.png"></p><p><img src="img/bc7ada9abb616cbaf04d6c1d8d5a319a.png"></p><p><a href="">#tag1</a> <a href="">#tag2</a></p><!--question--><p>otazka3</p><!--answer--><p>odpoved3</p><p><a href="">#tag1</a> <a href="">#tag2</a> <a href="">#tag3</a></p><!--question--><p>Jak se vaří brambora? +ěšřčžčžčáčýéčšž</p><!--answer--><p>\(x+y=1\)</p><!--question--><p>Jak se vaří brambora? 2 +ěšřčžčžčáčýéčšž</p><!--answer--><p>\[<br>\frac{\mathrm{d}(U V)}{\mathrm{d} a}<br>=\left\langle\begin{array}{l}\frac{\mathrm{d} U}<br>{\mathrm{d} a} V, \text { pokud } \varepsilon \notin h(U), \\ \frac{\mathrm{d} U}{\mathrm{d} a} V+\frac{\mathrm{d} V}{\mathrm{~d} a}, \text { pokud } \varepsilon \in h(U) \end{array}\right.<br>\]</p>]]></content>
     
@@ -103,11 +63,51 @@
   </entry>
   
   <entry>
+    <title>FIT-Flashcards</title>
+    <link href="http://example.com/2022/01/04/FIT-Flashcards-Posts/README/"/>
+    <id>http://example.com/2022/01/04/FIT-Flashcards-Posts/README/</id>
+    <published>2022-01-04T16:37:49.479Z</published>
+    <updated>2022-01-04T16:37:49.479Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="FIT-Flashcards"><a href="#FIT-Flashcards" class="headerlink" title="FIT-Flashcards"></a>FIT-Flashcards</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;FIT-Flashcards&quot;&gt;&lt;a href=&quot;#FIT-Flashcards&quot; class=&quot;headerlink&quot; title=&quot;FIT-Flashcards&quot;&gt;&lt;/a&gt;FIT-Flashcards&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2022/01/04/FIT-Flashcards-Posts/config/deck-settings/"/>
+    <id>http://example.com/2022/01/04/FIT-Flashcards-Posts/config/deck-settings/</id>
+    <published>2022-01-04T16:37:49.479Z</published>
+    <updated>2022-01-04T16:37:49.479Z</updated>
+    
+    <content type="html"><![CDATA[{"code":{"defaultLanguage":"bash","template":"dark"},"card":{"separator":"(?=^<!--question-->\\s)","frontBackSeparator":"<!--answer-->","tagPattern":"^\\[#(.*)\\]"},"deck":{"titleSeparator":"^#\\s","defaultName":"mdanki"},"template":{"formats":{"question":"<link rel=\"stylesheet\" href=\"_highlight_default.css\"><link rel=\"stylesheet\" href=\"_highlight_dark.css\"></link><script>var script;\"undefined\"==typeof hljs&&((script=document.createElement(\"script\")).src=\"_prism.js\",script.async=!1,document.head.appendChild(script));(script=document.createElement(\"script\")).src=\"_highlight.js\",script.async=!1,document.head.appendChild(script),document.head.removeChild(script);</script>","answer":"\n\n<hr id=\"answer\">\n\n","css":".card {\n font-family: Arial,\"Helvetica Neue\",Helvetica,sans-serif;\n font-size: 16px;\n color: black;\nbackground-color: white;\n}\ncode[class*=\"language-\"],pre[class*=\"language-\"] {\n font-size: 0.9em !important;\n}"}}}]]></content>
+    
+    
+      
+      
+    <summary type="html">{&quot;code&quot;:{&quot;defaultLanguage&quot;:&quot;bash&quot;,&quot;template&quot;:&quot;dark&quot;},&quot;card&quot;:{&quot;separator&quot;:&quot;(?=^&lt;!--question--&gt;\\s)&quot;,&quot;frontBackSeparator&quot;:&quot;&lt;!--answer--&gt;&quot;,&quot;tag</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World5</title>
     <link href="http://example.com/2022/01/04/hello-world/"/>
     <id>http://example.com/2022/01/04/hello-world/</id>
-    <published>2022-01-04T16:33:39.136Z</published>
-    <updated>2022-01-04T16:33:39.136Z</updated>
+    <published>2022-01-04T16:37:48.563Z</published>
+    <updated>2022-01-04T16:37:48.563Z</updated>
     
     <content type="html"><![CDATA[<p>Helloworld5!!</p><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -127,8 +127,8 @@
     <title>Test2</title>
     <link href="http://example.com/2022/01/04/test/test2/"/>
     <id>http://example.com/2022/01/04/test/test2/</id>
-    <published>2022-01-04T16:33:39.136Z</published>
-    <updated>2022-01-04T16:33:39.136Z</updated>
+    <published>2022-01-04T16:37:48.563Z</published>
+    <updated>2022-01-04T16:37:48.563Z</updated>
     
     <content type="html"><![CDATA[<p>Test2!!</p><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
